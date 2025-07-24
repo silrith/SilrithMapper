@@ -154,4 +154,4 @@ MIT License
 
 GitHub: github.com/silrith/SilrithMapper
 
-NuGet: nuget.org/packages/SilrithMapper (once published)
+NuGet: nuget.org/packages/SilrithMapper
